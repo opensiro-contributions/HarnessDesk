@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "harnessdesk-1772-tool-gateway-ownership",
+  "original_repository": "HarnessDesk/HarnessDesk",
+  "legacy_sources": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/harnessdesk-1772/README.md",
+    "https://github.com/opensiro/upstream-old/pull/55",
+    "https://github.com/HarnessDesk/HarnessDesk/issues/1772"
+  ],
+  "title": "Fix second-host tool-gateway socket ownership",
+  "work_state": "BLOCKED",
+  "next_action": "Unpublished original-native patch; no external PR or publication authorization; owner PAUSE",
+  "source_revision": "81d5e34e0e8e3d7e0945bc680695940b41ab852f",
+  "native_evidence": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/harnessdesk-1772/tool-gateway-ownership-fix-v2.patch",
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/harnessdesk-1772/NATIVE_CI_MIGRATION_2026-11-11.md",
+    "https://github.com/opensiro-contributions/HarnessDesk/actions/runs/43075481763/attempts/2"
+  ],
+  "work_branches": [
+    "opensiro/ci-harnessdesk-v2-parity-20261111@92583f632215d1b1891619e4d0430462bcbaf20d"
+  ],
+  "external_prs": [],
+  "last_event_id": null
+}
